@@ -1,5 +1,5 @@
 /**
- * Disable Page Visibility API
+ * Disable JetIQ Test Visability
  * Adapted by Borfak for VNTU students
  *
  * This script prevents websites from detecting tab visibility changes,
